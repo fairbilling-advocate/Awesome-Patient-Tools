@@ -38,6 +38,8 @@ This list collects the ones worth knowing about, sorted by where you are in your
 ### Financial Assistance and Advocacy
 - *[Patient Advocate Foundation](https://www.patientadvocate.org/)* — Nonprofit offering free case management and financial aid programs for eligible patients with chronic, life-threatening or debilitating illnesses and their caregivers.
 
+- *[Undue Medical Debt](https://unduemedicaldebt.org/)* — Nonprofit that uses donations to buy and erase bundled medical debt for financially vulnerable people; they also publish medical debt resources, but do not abolish debt by individual request.
+
 
 ### Learn More
 - *[KFF](https://www.kff.org/)* — Nonpartisan nonprofit source for health policy research, polling and journalism on U.S. healthcare costs, coverage, Medicaid, Medicare and insurance.
