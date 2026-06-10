@@ -28,6 +28,8 @@ This list collects the ones worth knowing about, sorted by where you are in your
 
 - *[NeedyMeds](https://needymeds.org/)* — Nonprofit database of programs that help with medication and healthcare costs, including patient assistance programs, coupons, rebates, co-pay help, clinics and a drug discount card.
 
+- *[Cost Plus Drugs](https://www.costplusdrugs.com/)* — Online pharmacy that sells generic medications at cost plus a flat markup and pharmacy fee, often far below typical retail prices.
+
 
 ### Review, Dispute or Reduce Bills
 - *[Bill Sherlock](https://www.billsherlock.app/)* — Free hospital and medical bill review for itemized ER or medical bills; helps spot overcharges, compare fair prices and prepare a dispute.
